@@ -73,7 +73,6 @@ I enjoy working close to the backend—designing clean APIs, managing data flows
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
 ## Projects & Work
-<img src="./assets/line_break.gif" />
 
 ### Click2Biz — Founder & Tech Lead
 - Designed and implemented client and admin dashboards  
