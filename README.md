@@ -1,4 +1,4 @@
-<img src="./assets/header_divider.gif" width="100%" />
+
 <img src="./assets/header.png" />
 
 # <b>Hi there, I'm </b><a href="https://github.com/aviralMadhvan24">Aviral Madhvan</a>
