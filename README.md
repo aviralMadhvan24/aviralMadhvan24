@@ -1,12 +1,11 @@
-<<<<<<< HEAD
-=======
 <img src="./assets/header_divider.gif" width="100%" />
 <img src="./assets/header.png" />
 
-# <b>Hi there, I'm </b><a href="https://github.com/aviral-madhvan">Aviral Madhvan</a>
+# <b>Hi there, I'm </b><a href="https://github.com/aviralMadhvan24">Aviral Madhvan</a>
 
-<img src="./assets/about_me.gif" width="35" />&nbsp;**_About Me_**
-<img src="./assets/line_break.gif" />
+<img src="./assets/gifs/gif2.gif" width="100%" />
+
+## About Me
 
 <p style="font-size: 1.1rem;">
 I am a <b>Computer Science & Engineering student</b> (Class of 2028) focused on <b>full-stack and backend engineering</b>.
@@ -16,9 +15,9 @@ authentication, dashboards, payments, background queues, and scalable APIs.
 I enjoy working close to the backend—designing clean APIs, managing data flows, and ensuring systems behave reliably under load.
 </p>
 
----
+<img src="./assets/gifs/gif2.gif" width="100%" />
 
-<img src="./assets/script_sticker.gif" width="30" />&nbsp;**_Tech Stack I Use_**
+## Tech Stack I Use
 <img src="./assets/line_break.gif" />
 
 <table align="center">
@@ -52,67 +51,50 @@ I enjoy working close to the backend—designing clean APIs, managing data flows
   </tr>
 </table>
 
----
+<img src="./assets/gifs/gif2.gif" width="100%" />
 
-<img src="./assets/project_icon.gif" width="30" />&nbsp;**_Projects & Work_**
+## Projects & Work
 <img src="./assets/line_break.gif" />
 
 ### Click2Biz — Founder & Tech Lead
-- Designed and implemented client and admin dashboards
-- Built authentication, purchase flows, and service progress tracking
-- Implemented background job queues for async processing
-- Integrated Web3 and modern backend tooling
-- Focused on clean architecture, data consistency, and scalability
+- Designed and implemented client and admin dashboards  
+- Built authentication, purchase flows, and service progress tracking  
+- Implemented background job queues for asynchronous processing  
+- Integrated Web3 and modern backend tooling  
+- Emphasis on clean architecture, data consistency, and scalability  
 
 ### Other Work
-- Authentication systems using React + Node.js
-- API-driven React utilities (password generators, converters)
-- Hackathon projects built under strict time constraints
+- Authentication systems using React and Node.js  
+- API-driven React utilities  
+- Hackathon projects built under strict time constraints  
 
----
+<img src="./assets/gifs/gif2.gif" width="100%" />
 
-<img src="./assets/learning.gif" width="30" />&nbsp;**_Currently Learning_**
+## Currently Learning
 <img src="./assets/line_break.gif" />
 
-- Advanced backend architecture patterns
-- Queue-based systems and background processing
-- Web3 development workflows and testing
-- Database optimization and schema design
+- Advanced backend architecture patterns  
+- Queue-based systems and background processing  
+- Web3 development workflows and testing  
+- Database optimization and schema design  
 
----
+<img src="./assets/gifs/gif2.gif" width="100%" />
 
-<img src="./assets/target.gif" width="30" />&nbsp;**_Goals_**
+## Goals
 <img src="./assets/line_break.gif" />
 
-- Build production-grade SaaS and Web3 platforms
-- Gain deep backend and system design expertise
-- Secure high-impact internships and engineering roles
-- Contribute meaningfully to open-source projects
+- Build production-grade SaaS and Web3 platforms  
+- Develop strong backend and system design expertise  
+- Secure high-impact internships and engineering roles  
+- Contribute meaningfully to open-source projects  
 
----
+<img src="./assets/gifs/gif2.gif" width="100%" />
 
-<img src="./assets/stats_logo.gif" width="35" />&nbsp;**_GitHub Stats_**
+## Contact
 <img src="./assets/line_break.gif" />
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=aviral-madhvan&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aviral-madhvan&theme=tokyonight" width="51%" />
-</div>
-
-<br/>
-
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aviral-madhvan&theme=merko" width="100%" />
-</div>
-
----
-
-<img src="./assets/contact.gif" width="30" />&nbsp;**_Contact_**
-<img src="./assets/line_break.gif" />
-
-- GitHub: https://github.com/aviral-madhvan  
+- GitHub: https://github.com/aviralMadhvan24  
 - LinkedIn: https://linkedin.com/in/your-profile  
 - Email: your.email@example.com  
 
 <img src="./assets/header_divider.gif" width="100%" />
->>>>>>> c3af687579ace2af117e0cb76a630fb49cb612c0
