@@ -98,7 +98,6 @@ The site focuses on clear service presentation, trust-building, and accessibilit
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
 ## Contact
-<img src="./assets/line_break.gif" />
 
 - GitHub: https://github.com/aviralMadhvan24  
 - LinkedIn: https://www.linkedin.com/in/aviral-madhvan-801481218/
