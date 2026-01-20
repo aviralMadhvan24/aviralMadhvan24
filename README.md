@@ -18,36 +18,55 @@ I enjoy working close to the backend—designing clean APIs, managing data flows
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
 ## Tech Stack I Use
-<img src="./assets/line_break.gif" />
 
 <table align="center">
   <tr>
-    <td align="center" width="90"><img src="./assets/js.png" width="50"/><br/>JavaScript</td>
-    <td align="center" width="90"><img src="./assets/ts.png" width="50"/><br/>TypeScript</td>
-    <td align="center" width="90"><img src="./assets/solidity.png" width="50"/><br/>Solidity</td>
-    <td align="center" width="90"><img src="./assets/eth.png" width="50"/><br/>Ethereum</td>
+    <th colspan="4" align="center">Languages & Blockchain</th>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="./assets/reactjs.png" width="50"/><br/>React</td>
-    <td align="center" width="90"><img src="./assets/nextjs.png" width="50"/><br/>Next.js</td>
-    <td align="center" width="90"><img src="./assets/nodejs.png" width="50"/><br/>Node.js</td>
-    <td align="center" width="90"><img src="./assets/expressjs.png" width="50"/><br/>Express.js</td>
+    <td align="center" width="120"><img src="./assets/js.png" width="45"/><br/>JavaScript</td>
+    <td align="center" width="120"><img src="./assets/ts.png" width="45"/><br/>TypeScript</td>
+    <td align="center" width="120"><img src="./assets/solidity.png" width="45"/><br/>Solidity</td>
+    <td align="center" width="120"><img src="./assets/eth.png" width="45"/><br/>Ethereum</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="center">Frontend & Backend</th>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="./assets/mongodb.png" width="50"/><br/>MongoDB</td>
-    <td align="center" width="90"><img src="./assets/postgresql.png" width="50"/><br/>PostgreSQL</td>
-    <td align="center" width="90"><img src="./assets/redis.png" width="50"/><br/>Redis</td>
-    <td align="center" width="90"><img src="./assets/prisma.png" width="50"/><br/>Prisma</td>
+    <td align="center"><img src="./assets/reactjs.png" width="45"/><br/>React</td>
+    <td align="center"><img src="./assets/nextjs.png" width="45"/><br/>Next.js</td>
+    <td align="center"><img src="./assets/nodejs.png" width="45"/><br/>Node.js</td>
+    <td align="center"><img src="./assets/expressjs.png" width="45"/><br/>Express.js</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="center">Databases & Caching</th>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="./assets/docker.png" width="50"/><br/>Docker</td>
-    <td align="center" width="90"><img src="./assets/bullmq.png" width="50"/><br/>BullMQ</td>
-    <td align="center" width="90"><img src="./assets/firebase.png" width="50"/><br/>Firebase</td>
-    <td align="center" width="90"><img src="./assets/postman.png" width="50"/><br/>Postman</td>
+    <td align="center"><img src="./assets/mongodb.png" width="45"/><br/>MongoDB</td>
+    <td align="center"><img src="./assets/postgresql.png" width="45"/><br/>PostgreSQL</td>
+    <td align="center"><img src="./assets/redis.png" width="45"/><br/>Redis</td>
+    <td align="center"><img src="./assets/prisma.png" width="45"/><br/>Prisma</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="center">Infrastructure & Tools</th>
   </tr>
   <tr>
-    <td align="center" width="90"><img src="./assets/metamask.png" width="50"/><br/>MetaMask</td>
-    <td align="center" width="90"><img src="./assets/hardhat.png" width="50"/><br/>Hardhat</td>
+    <td align="center"><img src="./assets/docker.png" width="45"/><br/>Docker</td>
+    <td align="center"><img src="./assets/bullmq.png" width="45"/><br/>BullMQ</td>
+    <td align="center"><img src="./assets/firebase.png" width="45"/><br/>Firebase</td>
+    <td align="center"><img src="./assets/postman.png" width="45"/><br/>Postman</td>
+  </tr>
+
+  <tr>
+    <th colspan="4" align="center">Web3 & Auth</th>
+  </tr>
+  <tr>
+    <td align="center"><img src="./assets/metamask.png" width="45"/><br/>MetaMask</td>
+    <td align="center"><img src="./assets/hardhat.png" width="45"/><br/>Hardhat</td>
+    <td colspan="2"></td>
   </tr>
 </table>
 
@@ -63,30 +82,18 @@ I enjoy working close to the backend—designing clean APIs, managing data flows
 - Integrated Web3 and modern backend tooling  
 - Emphasis on clean architecture, data consistency, and scalability  
 
-### Other Work
-- Authentication systems using React and Node.js  
-- API-driven React utilities  
-- Hackathon projects built under strict time constraints  
-
+**Live Website:** https://www.click2biz.in/
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
-## Currently Learning
-<img src="./assets/line_break.gif" />
+### Niyati Group — Website Project
 
-- Advanced backend architecture patterns  
-- Queue-based systems and background processing  
-- Web3 development workflows and testing  
-- Database optimization and schema design  
+Developed the official website for **Niyati Group**, a tax consultancy and job recruitment firm serving clients across India.  
+The site focuses on clear service presentation, trust-building, and accessibility for non-technical users.
 
-<img src="./assets/gifs/gif2.gif" width="100%" />
+**Tech Stack:** React, Firebase  
 
-## Goals
-<img src="./assets/line_break.gif" />
+**Live Website:** https://www.niyatigroup.co.in/
 
-- Build production-grade SaaS and Web3 platforms  
-- Develop strong backend and system design expertise  
-- Secure high-impact internships and engineering roles  
-- Contribute meaningfully to open-source projects  
 
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
