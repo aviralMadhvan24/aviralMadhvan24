@@ -8,7 +8,7 @@
 ## About Me
 
 <p style="font-size: 1.1rem;">
-I am a <b>Computer Science & Engineering student</b> (Class of 2028) focused on <b>full-stack and backend engineering</b>.
+I am a <b>Computer Science & Engineering student</b> (Class of 2028) focused on <b>backend engineering</b>.
 I currently serve as the <b>Founder & Tech Lead of Click2Biz</b>, where I design and build real-world SaaS systems involving
 authentication, dashboards, payments, background queues, and scalable APIs.
 <br/><br/>
