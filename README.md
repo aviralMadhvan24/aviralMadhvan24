@@ -101,7 +101,6 @@ The site focuses on clear service presentation, trust-building, and accessibilit
 <img src="./assets/line_break.gif" />
 
 - GitHub: https://github.com/aviralMadhvan24  
-- LinkedIn: https://linkedin.com/in/your-profile  
-- Email: your.email@example.com  
+- LinkedIn: https://www.linkedin.com/in/aviral-madhvan-801481218/
+- Email: aviralmadhvan@gmail.com  
 
-<img src="./assets/header_divider.gif" width="100%" />
