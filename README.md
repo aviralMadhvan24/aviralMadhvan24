@@ -98,9 +98,20 @@ The site focuses on clear service presentation, trust-building, and accessibilit
 
 ## Language Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralMadhvan24&theme=tokyonight&layout=compact" />
-</p>
+## Language & Activity
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralMadhvan24&theme=tokyonight&layout=compact" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aviralMadhvan24&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
+
+
 
 ## Contact
 
