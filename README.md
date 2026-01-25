@@ -96,21 +96,18 @@ The site focuses on clear service presentation, trust-building, and accessibilit
 
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
-## Language Stats
-
 ## Language & Activity
 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralMadhvan24&theme=tokyonight&layout=compact" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralMadhvan24&theme=neon&layout=compact&border_radius=6" />
     </td>
     <td align="center">
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aviralMadhvan24&theme=tokyonight" />
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=aviralMadhvan24&theme=neon&border_radius=6" />
     </td>
   </tr>
 </table>
-
 
 
 ## Contact
