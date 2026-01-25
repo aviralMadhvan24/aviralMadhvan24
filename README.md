@@ -96,6 +96,12 @@ The site focuses on clear service presentation, trust-building, and accessibilit
 
 <img src="./assets/gifs/gif2.gif" width="100%" />
 
+## Language Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aviralMadhvan24&theme=tokyonight&layout=compact" />
+</p>
+
 ## Contact
 
 - GitHub: https://github.com/aviralMadhvan24  
